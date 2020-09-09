@@ -1,2 +1,2 @@
-command to open a file from emacs
+command to work with emacs
 Holberton learning...
